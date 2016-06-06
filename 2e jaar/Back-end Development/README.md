@@ -3,8 +3,10 @@
 ## Samenvattingen
 
 ### Volledige samenvatting
-| Bron             	| Dieter Holvoet                                                                                   	|
+| Kenmerk           | Omschrijving                                                                                    	|
 |------------------	|--------------------------------------------------------------------------------------------------	|
+| Bron              | Dieter Holvoet                                                                                   	|
+| Academiejaar      | 2015-2016                                                                                       	|
 | Toegevoegd       	| 6 juni 2016, 12u45                                                                               	|
 | Laatst aangepast 	| 6 juni 2016, 12u45                                                                               	|
 | Omschrijving     	| Een samenvatting van alle leerstof die doorheen het jaar gezien werd                             	|
