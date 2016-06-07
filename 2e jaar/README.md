@@ -4,9 +4,9 @@
 |--------------------------------------------------------------------------------------------------------|----------------|-----------------------|
 | [Back-end Development](Back-end Development/README.md)                                                 | 5              | 1                     |
 | [Concept Design](Concept Design/README.md)                                                             | 3              | 0                     |
-| [Creative Programming III](Creative Programming III/README.md)                                         | 5              | 0                     |
-| [Data Management](Data Management/README.md)                                                           | 4              | 0                     |
-| [Foreign Languages: French](Foreign Languages French/README.md)                                        | 3              | 0                     |
+| [Creative Programming III](Creative Programming III/README.md)                                         | 5              | 1                     |
+| [Data Management](Data Management/README.md)                                                           | 4              | 1                     |
+| [Foreign Languages: French](Foreign Languages French/README.md)                                        | 3              | 2                     |
 | Integration: Multiscreen                                                                               | 4              | 0                     |
 | [Motion Design](Motion Design/README.md)                                                               | 4              | 0                     |
 | New Media Talent                                                                                       | 3              | 0                     |

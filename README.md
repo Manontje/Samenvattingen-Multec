@@ -8,7 +8,11 @@ Indien je zelf een samenvatting hebt gemaakt en deze wil delen met de rest, of (
 ### Pull request
 Dien een [pull request](https://help.github.com/articles/using-pull-requests/) in op de master-branch van deze repository met de gewenste wijzigingen, ik zal ze reviewen en mergen.
 
-Nieuwe samenvattingen voor een bepaald vak kunnen worden toegevoegd door een [niveau 3-header](https://help.github.com/articles/basic-writing-and-formatting-syntax/#headings) en [tabel](https://help.github.com/articles/organizing-information-with-tables/) toe te voegen aan het README.md-bestand van de gepaste folder.
+Nieuwe samenvattingen voor een bepaald vak kunnen worden toegevoegd door een [niveau 3-header](https://help.github.com/articles/basic-writing-and-formatting-syntax/#headings) en [tabel](https://help.github.com/articles/organizing-information-with-tables/) toe te voegen aan het README.md-bestand van de gepaste folder. Pas ook het aantal samenvattingen aan in de hoofdfolder van het gepaste jaar (1e/2e/3e jaar).
+
+De bestanden worden in de directory van het vak geplaatst, op hetzelfde niveau als het README.md-bestand (dus geen subfolders).
+Bestanden worden genoemd volgens het volgende patroon, en in PascalCase: <naam auteur>-<beginjaar academiejaar>-<eindjaar academiejaar>-<titel>.
+Dezelfde samenvattingen hebben dezelfde bestandsnaam voor de verschillende bestandstypes (behalve de extensie, natuurlijk).
 
 #### Markdown-code
 ```
