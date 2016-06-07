@@ -10,7 +10,7 @@
 | Integration: Multiscreen                                                                               | 4              | 0                     |
 | [Motion Design](Motion Design/README.md)                                                               | 4              | 0                     |
 | New Media Talent                                                                                       | 3              | 0                     |
-| [Online Marketing](Online Marketing/README.md)                                                         | 3              | 0                     |
+| [Online Marketing](Online Marketing/README.md)                                                         | 3              | 1                     |
 | [Real-Time 3D](Real-Time 3D/README.md)                                                                 | 4              | 0                     |
 | [Rich Media Development](Rich Media Development/README.md)                                             | 4              | 0                     |
 | [User Experience Design](User Experience Design/README.md)                                             | 5              | 0                     |
