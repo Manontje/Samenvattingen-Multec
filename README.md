@@ -1,13 +1,14 @@
 # Samenvattingen-Multec
 Een (onofficiële) verzameling van samenvattingen voor ba Multimedia en Communicatietechnologie van de Erasmushogeschool te Brussel.
 
+
 ## Zelf samenvattingen toevoegen
 Indien je zelf een samenvatting hebt gemaakt en deze wil delen met de rest, of (met toestemming en bronvermelding) een samenvatting van iemand anders wil toevoegen, kan dat op twee manieren:
 
 ### Pull request
 Dien een [pull request](https://help.github.com/articles/using-pull-requests/) in op de master-branch van deze repository met de gewenste wijzigingen, ik zal ze reviewen en mergen.
 
-Nieuwe samenvattingen voor een bepaald vak kunnen worden toegevoegd door een niveau 3-header en tabel toe te voegen aan het README.md-bestand van de gepaste folder.
+Nieuwe samenvattingen voor een bepaald vak kunnen worden toegevoegd door een [niveau 3-header](https://help.github.com/articles/basic-writing-and-formatting-syntax/#headings) en [tabel](https://help.github.com/articles/organizing-information-with-tables/) toe te voegen aan het README.md-bestand van de gepaste folder.
 
 #### Markdown-code
 ```
@@ -25,7 +26,6 @@ Nieuwe samenvattingen voor een bepaald vak kunnen worden toegevoegd door een niv
 
 #### Voorbeeld
 
-### Volledige samenvatting
 | Kenmerk           | Omschrijving                                                                                    	|
 |------------------	|--------------------------------------------------------------------------------------------------	|
 | Bron              | Dieter Holvoet                                                                                   	|
@@ -38,6 +38,7 @@ Nieuwe samenvattingen voor een bepaald vak kunnen worden toegevoegd door een niv
 
 ### Stuur me een mail
 Indien het echt niet mogelijk is om een pull request in te dienen, kan je me ook een [mail sturen](mailto:dieter.holvoet@gmail.com) met de bestanden en de hierboven vermelde metadata.
+
 
 ## Een samenvatting bijwerken/corrigeren
 ### Je eigen samenvatting bijwerken/corrigeren
@@ -52,6 +53,7 @@ Gebruik één van de hierboven vermelde methoden om een samenvatting toe te voeg
 
 ### Een fout melden zonder zelf een revisie te schrijven
 Open een issue, omschrijf het probleem en voeg één of meerdere gepaste labels toe.
+
 
 ## Vragen of suggesties?
 Open een issue met het label 'vraag' en het label 'meta' indien het over de repository zelf gaat. Het is niet de bedoeling dat de issue-sectie een persoonlijke helpdesk wordt, dus blijf bij het onderwerp.
