@@ -12,7 +12,7 @@
 | [Dynamic Web Development](Dynamic Web Development/README.md)             | 5              | 0                     |
 | [Foreign Languages: English](Foreign Languages English/README.md)        | 3              | 0                     |
 | [Information Design](Information Design/README.md)                       | 5              | 0                     |
-| [Integration: Mobile](Integration Mobile/README.md)                      | 4              | 0                     |
-| [Integration: Web](Integration Web/README.md                             | 4              | 0                     |
+| Integration: Mobile                                                      | 4              | 0                     |
+| Integration: Web                                                         | 4              | 0                     |
 | [Project Management](Project Management/README.md)                       | 3              | 0                     |
 | [Static Web Development](Static Web Development/README.md)               | 5              | 0                     |
