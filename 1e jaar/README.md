@@ -2,8 +2,8 @@
 
 | Naam                                                                     | Aantal credits | Aantal samenvattingen |
 |--------------------------------------------------------------------------|----------------|-----------------------|
-| [3D Design](3D Design/README.md)                                         | 4              | 0                     |
-| [Audiovisual & IT Principles](Audiovisual & IT Principles/README.md)     | 5              | 0                     |
+| [3D Design](3D Design/README.md)                                         | 4              | 2                     |
+| [Audiovisual & IT Principles](Audiovisual & IT Principles/README.md)     | 5              | 2                     |
 | [Audiovisual Design](Audiovisual Design/README.md)                       | 5              | 0                     |
 | [Business Communication Skills](Business Communication Skills/README.md) | 3              | 0                     |
 | [Creative Programming I](Creative Programming I/README.md)               | 5              | 0                     |
