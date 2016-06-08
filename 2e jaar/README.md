@@ -8,12 +8,12 @@
 | [Data Management](Data Management/README.md)                                                           | 4              | 1                     |
 | [Foreign Languages: French](Foreign Languages French/README.md)                                        | 3              | 2                     |
 | Integration: Multiscreen                                                                               | 4              | 0                     |
-| [Motion Design](Motion Design/README.md)                                                               | 4              | 0                     |
+| [Motion Design](Motion Design/README.md)                                                               | 4              | 1                     |
 | New Media Talent                                                                                       | 3              | 0                     |
 | [Online Marketing](Online Marketing/README.md)                                                         | 3              | 1                     |
 | [Real-Time 3D](Real-Time 3D/README.md)                                                                 | 4              | 1                     |
-| [Rich Media Development](Rich Media Development/README.md)                                             | 4              | 0                     |
-| [User Experience Design](User Experience Design/README.md)                                             | 5              | 0                     |
+| [Rich Media Development](Rich Media Development/README.md)                                             | 4              | 1                     |
+| [User Experience Design](User Experience Design/README.md)                                             | 5              | 1                     |
 | [Android Design & Development](Android Design & Development/README.md)                                 | 4              | 0                     |
 | Integration: Art & Technology                                                                          | 4              | 0                     |
 | Integration: Mobile App & Web                                                                          | 4              | 0                     |
