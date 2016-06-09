@@ -25,3 +25,15 @@
 | Aantal pagina's  	| 28                                                                                                                   	|
 | Gebaseerd op     	| De cursus en slides.                                                                                                 	|
 | Bestandsformaten 	| [pdf](DieterHolvoet-2014-2015-AudiovisualPrinciples.pdf), [docx](DieterHolvoet-2014-2015-AudiovisualPrinciples.docx) 	|
+
+### Audiovisual Principles
+| Kenmerk           | Omschrijving                                                                                                        	|
+|------------------	|---------------------------------------------------------------------------------------------------------------------	|
+| Bron              | ?                                                                                                                    	|
+| Academiejaar      | 2014-2015                                                                                                            	|
+| Toegevoegd       	| 9 juni 2016, 12u56                                                                                                   	|
+| Laatst aangepast 	| 9 juni 2016, 12u56                                                                                                  	|
+| Omschrijving     	| Een samenvatting van alle leerstof die doorheen het jaar gezien werd.                                                	|
+| Aantal pagina's  	| 28                                                                                                                   	|
+| Gebaseerd op     	| ?                                                                                                                    	|
+| Bestandsformaten 	| [pdf](Onbekend-2013-2014-AudiovisualPrinciples.pdf), [docx](Onbekend-2013-2014-AudiovisualPrinciples.docx)           	|

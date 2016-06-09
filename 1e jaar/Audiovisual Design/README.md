@@ -24,4 +24,4 @@
 | Omschrijving     	| Een samenvatting van de 'Premiere Pro CC Essential Training' tutorialvideo's.                                         |
 | Aantal pagina's  	| 9                                                                                                                   	|
 | Gebaseerd op     	| De 'Premiere Pro CC Essential Training' tutorialvideo's.                                                             	|
-| Bestandsformaten 	| [pdf](AnahitaNikdast-2014-2015-Tutorialvideos.pdf), [docx](AnahitaNikdast-2014-2015-Tutorialvideos.docx)             	|
+| Bestandsformaten 	| [pdf](AnahitaNikdast-2014-2015-Tutorialvideos.pdf)                                                                   	|
