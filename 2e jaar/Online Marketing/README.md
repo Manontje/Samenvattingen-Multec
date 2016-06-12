@@ -14,6 +14,18 @@
 | Gebaseerd op     	| Het lesboek 'Interactieve Marketing', de slides en (enkele) notities van de hoorcolleges.                            	|
 | Bestandsformaten 	| [pdf](DieterHolvoet-2015-2016-VolledigeSamenvatting.pdf), [docx](DieterHolvoet-2015-2016-VolledigeSamenvatting.docx)  |
 
+### Overzicht SOSTAC-analyse
+| Kenmerk           | Omschrijving                                                                                                        	|
+|------------------	|---------------------------------------------------------------------------------------------------------------------	|
+| Bron              | Dieter Holvoet                                                                                                       	|
+| Academiejaar      | 2015-2016                                                                                                            	|
+| Toegevoegd       	| 12 juni 2016, 20u53                                                                                                 	|
+| Laatst aangepast 	| 12 juni 2016, 20u53                                                                                                  	|
+| Omschrijving     	| Een overzicht van de SOSTAC-analyse (het grootste deel van de cursus).                                              	|
+| Aantal pagina's  	| 3                                                                                                                   	|
+| Gebaseerd op     	| Bovenstaande samenvatting.                                                                                           	|
+| Bestandsformaten 	| [pdf](DieterHolvoet-2015-2016-SOSTAC.pdf), [docx](DieterHolvoet-2015-2016-SOSTAC.docx)                                |
+
 ### Gastcollege door De Standaard
 | Kenmerk           | Omschrijving                                                                                                        	|
 |------------------	|---------------------------------------------------------------------------------------------------------------------	|
@@ -36,4 +48,4 @@
 | Omschrijving     	| Een samenvatting van het gastcollege door Jori Aerden van Daddy Kate.                                               	|
 | Aantal pagina's  	| 1                                                                                                                   	|
 | Gebaseerd op     	| De slides.                                                                                                           	|
-| Bestandsformaten 	| [pdf](DieterHolvoet-2015-2016-DaddyKate.pdf), [docx](DieterHolvoet-2015-2016-DaddyKate.docx)  |
+| Bestandsformaten 	| [pdf](DieterHolvoet-2015-2016-DaddyKate.pdf), [docx](DieterHolvoet-2015-2016-DaddyKate.docx)                          |
