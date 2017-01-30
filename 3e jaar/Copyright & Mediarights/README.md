@@ -1,3 +1,3 @@
 # Copyright & Mediarights
 
-## Samenvattingen
+## Samenvattingen 
